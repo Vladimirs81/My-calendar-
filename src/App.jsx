@@ -10,7 +10,7 @@ const DAY_TYPES = [
   { id: "off",     label: "Выходной",        color: "#4caf7d", text: "#fff" },
   { id: "holiday", label: "Праздник",        color: "#e94560", text: "#fff" },
   { id: "bank",    label: "Банк",            color: "#5bc8f5", text: "#0a4a6e" },
-  { id: "vacation",label: "Отпуск",          color: "#5b8af5", text: "#fff" },
+  { id: "vacation",label: "Отпуск",          color: "#ffffff", text: "#3a2e1e" },
 ];
 
 function getDaysInMonth(year, month) {
